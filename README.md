@@ -8,6 +8,7 @@ Data Minati is an organization that provides complete data science solution righ
 
 ### About the Founders:
 
-| Name | Position |
-|------|----------|
-| Mainak Chaudhuri | CEO & Founder |
+| Name | Position | Remarks |
+|------|----------|---------|
+| Mainak Chaudhuri | CEO & Founder | 3rd yr B.Tech, CSE |
+| Anshika Singh | CTO & Co-Founder | 3rd yr B.Tech, CSE |
